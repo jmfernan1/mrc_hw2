@@ -1,0 +1,16 @@
+First Order:
+jmfernan1@pualu:~$ rospack depends1 mrc_hw2
+std_msgs
+
+Indirect:
+jmfernan1@pualu:~$ rospack depends mrc_hw2
+cpp_common
+rostime
+roscpp_traits
+roscpp_serialization
+catkin
+genmsg
+genpy
+message_runtime
+std_msgs
+
